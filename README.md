@@ -52,9 +52,12 @@ The dataset contains clinical information from **299 heart failure patients**, i
 
 ---
 
-## Dashboard Preview
 
-dashboard.png.jpg
+<h2>📊 Dashboard Preview</h2>
+
+<p align="center">
+  <img src="IMAGES/dashboard.png.jpg" alt="Clinical Trial Analytics Dashboard" width="1000">
+</p>
 
 ---
 
